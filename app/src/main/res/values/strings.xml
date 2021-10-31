@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CAPITAL</string>
+    <string name="email">Email</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="signUpbtn">sign up</string>
+    <string name="changeLang">Hebrew</string>
+    <string name="english">english</string>
+    <string name="hebrew">hebrew</string>
+    <string name="start">start game</string>
+    <string name="submit">Submit</string>
+    <string name="topScores">Top Scores</string>
+    <string name="enter_your_answer_here">Enter Your Answer Here !</string>
+    <string name="get_hint">Get hint</string>
+    <string name="coins">Coins</string>
+    <string name="level">Level</string>
+    <string name="hey">Hey!</string>
+    <string name="this_is_how_it_works">This Is How It works</string>
+    <string name="ok_lets_start">OK lets Start !</string>
+    <string name="hint_will_open_google_map">Hint will open Google Map</string>
+    <string name="LogInGood">Log-In successful</string>
+    <string name="SignUpGood">Sign Up successfully</string>
+    <string name="AccountNot">Account does not exist</string>
+
+
+</resources>

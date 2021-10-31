@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DimaAndOrAndroid</string>
+    <string name="email">אי מייל</string>
+    <string name="login">כניסה</string>
+    <string name="password">סיסמא</string>
+    <string name="signUpbtn">הירשם</string>
+    <string name="changeLang">שנה שפה</string>
+    <string name="hebrew">עברית</string>
+    <string name="english">אנגלית</string>
+    <string name="start">התחל משחק</string>
+    <string name="submit">בדוק תשובה</string>
+    <string name="topScores">תוצאות שיא</string>
+    <string name="get_hint">רמז</string>
+    <string name="enter_your_answer_here">הכנס תשובה</string>
+    <string name="coins">מטבעות</string>
+    <string name="level">שלב</string>
+    <string name="hey">הי!</string>
+    <string name="this_is_how_it_works">ככה המשחק עובד</string>
+    <string name="ok_lets_start">בוא נתחיל!</string>
+    <string name="hint_will_open_google_map">רמז,לפתוח גוגל מפות</string>
+    <string name="LogInGood">נכנסת בהצלחה!</string>
+    <string name="SignUpGood">נרשמת בהצלחה!</string>
+    <string name="AccountNot">משתמש לא קיים!</string>
+
+
+</resources>
